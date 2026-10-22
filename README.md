@@ -1,7 +1,7 @@
 Hi, I’m Ralph Schraven, Data & IT Specialist in Planology for Ruimtemeesters.
 
-Are you wondering how to model your data on top of a half dozen competing information standards?
-Do you have to pull on internal staff members to explain where their data is located, who has access, and what every column and definition is doing?
+Are you wondering how to model your data on top of a half dozen competing information standards?\n
+Do you have to pull on internal staff members to explain where their data is located, who has access, and what every column and definition is doing?\n
 Do you have three variations of the same spreadsheet, database table or definition because of competing needs between departments?
 
 I help businesses gain clarity across these processes. From ownership to definitions, and from consolidated standards to practical information models.
