@@ -1,6 +1,6 @@
-Hi, I’m Ralph Schraven, Data & IT Specialist in Planology for Ruimtemeesters.
+Hi, I’m Ralph Schraven, and I help make sense of lots of data.
 
-Are you wondering how to model your data on top of a half dozen competing information standards?
+Are you wondering how to model your information on top of a half dozen competing standards?
 
 Do you have to pull on internal staff members to explain where their data is located, who has access, and what every column and definition is doing?
 
