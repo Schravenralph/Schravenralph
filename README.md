@@ -1,6 +1,6 @@
 Hi, I’m Ralph Schraven, and I help make sense of lots of data.
 
-Are you wondering how to model your information on top of a half dozen competing standards?
+Are you wondering how to model your information on top of half a dozen competing standards?
 
 Do you have to pull on internal staff members to explain where their data is located, who has access, and what every column and definition is doing?
 
